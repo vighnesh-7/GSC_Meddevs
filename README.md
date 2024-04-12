@@ -15,10 +15,10 @@ Ready to experience the future of healthcare? Visit MedDevs and start your journ
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/vighnesh-7/Next-js_Team_MedDevs.git
+   https://github.com/vighnesh-7/GSC_Meddevs.git
    
 2. Navigate to the project directory:
-    cd Next-js_Team_MedDevs
+    cd GSC_Meddevs
 
 3. Install dependencies:
     npm install
@@ -52,14 +52,11 @@ healthcare causes and initiatives.
 
 
 
+https://github.com/vighnesh-7/GSC_Meddevs/assets/156537424/b058ba97-8744-4297-9ce2-2138e6fbcde0
 
 
 
 
-
-
-
-https://github.com/vighnesh-7/GSC_Meddevs/blob/main/MedDevs%20Demo.mp4
 
 
 
