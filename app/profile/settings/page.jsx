@@ -14,7 +14,7 @@ const Profile = async () => {
         imageUrl: user.imageUrl,
         // lastSignInAt: user.lastSignInAt,
         email: user.emailAddresses[0].emailAddress,
-        phoneNumber:user.phoneNumbers[0].phoneNumber,
+        phoneNumber:user.phoneNumbers[0]?.phoneNumber,
         };
 
         // console.log(user);

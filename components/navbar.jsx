@@ -17,7 +17,7 @@ const Navbar = () => {
             </div>
             <MainNav />
             <div>
-                <RazorpayComponent/>
+                {/* <RazorpayComponent/> */}
             </div>
             <div className="flex items-center space-x-5 ml-auto ">
                 <UserButton afterSignOutUrl="/"/>
